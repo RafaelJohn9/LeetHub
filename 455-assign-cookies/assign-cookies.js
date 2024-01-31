@@ -4,8 +4,8 @@
  * @return {number}
  */
 var findContentChildren = function(g, s) {
-    let greedFactor = g.slice().sort((a, b) => a - b);
-    let sizeFactor = s.slice().sort((a,b) => a - b);
+    let greedFactor = g.sort((a, b) => a - b);
+    let sizeFactor = s.sort((a,b) => a - b);
     let satisfiedChildren = 0;
 
     let i = 0;
