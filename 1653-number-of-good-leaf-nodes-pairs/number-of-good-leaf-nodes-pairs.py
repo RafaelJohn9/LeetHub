@@ -1,0 +1,33 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+
+class Solution:
+    def countPairs(self, root: TreeNode, distance: int) -> int:
+        def dfs(node: TreeNode):
+            if not node:
+                return []
+            
+            if not node.left and not node.right:
+                # Return the depth of this leaf node as a list
+                return [1]
+
+            # Get the distances from the left and right subtrees
+            left_distances = dfs(node.left)
+            right_distances = dfs(node.right)
+
+            # Count good pairs between left and right distances
+            for l in left_distances:
+                for r in right_distances:
+                    if l + r <= distance:
+                        self.good_pairs += 1
+
+            # Return the distances increased by one level to the parent node
+            return [d + 1 for d in left_distances + right_distances if d + 1 <= distance]
+
+        self.good_pairs = 0
+        dfs(root)
+        return self.good_pairs
