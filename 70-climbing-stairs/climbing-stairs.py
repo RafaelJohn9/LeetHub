@@ -1,14 +1,17 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n <= 2:
-            return n
-        
-        stairs = [0] * n
-        indexOf = lambda x: x - 1
-        stairs[indexOf(1)] = 1
-        stairs[indexOf(2)] = 2
+        if n == 1:
+            return 1
 
-        for stair in range(3, n + 1):
-            stairs[indexOf(stair)] = stairs[indexOf(stair - 1)] + stairs[indexOf(stair - 2)]
+        if n == 2:
+            return 2
         
-        return stairs[indexOf(n)]
+        first = 1
+        second = 2
+
+        for i in range(3, n + 1):
+            third = first + second
+            first = second
+            second = third
+        
+        return second
