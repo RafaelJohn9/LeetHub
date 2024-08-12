@@ -1,23 +1,21 @@
 class KthLargest:
 
     def __init__(self, k: int, nums: List[int]):
-        self.nums =  nums
         self.k = k
-
-    
-    def is_kth_largest(self):
-        self.nums.sort(reverse=True)
-
-        prev = self.nums[0]
-        return self.nums[self.k - 1]
-
+        self.min_heap = nums
+        heapq.heapify(self.min_heap)  # Convert nums into a heap
         
+        # If there are more than k elements, maintain only the k largest ones
+        while len(self.min_heap) > k:
+            heapq.heappop(self.min_heap)
 
     def add(self, val: int) -> int:
-        self.nums.append(val)
-        return self.is_kth_largest()
-
-
-# Your KthLargest object will be instantiated and called as such:
-# obj = KthLargest(k, nums)
-# param_1 = obj.add(val)
+        # Add the new value to the heap
+        heapq.heappush(self.min_heap, val)
+        
+        # If the heap grows larger than k, remove the smallest element
+        if len(self.min_heap) > self.k:
+            heapq.heappop(self.min_heap)
+        
+        # The root of the heap is the kth largest element
+        return self.min_heap[0]
