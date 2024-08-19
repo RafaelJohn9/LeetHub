@@ -1,19 +1,12 @@
 class Solution:
     def minSteps(self, n: int) -> int:
-        if not isinstance(n, int):
-            return 0
-            
-        string = "H"
-        copy = lambda src: src
-        paste = lambda string1, string2: string1 + string2
-        numberOfOperations = 0
+        factor = 2
+        steps: int = 0
+
+        while n > 1:
+            while n % factor == 0:
+                steps += factor
+                n //= factor
+            factor += 1
         
-        while len(string) < n:
-            if n % len(string) == 0:
-                strCopied = copy(string)
-                string = paste(strCopied, string)
-                numberOfOperations += 2
-            else:
-                string = paste(strCopied, string)
-                numberOfOperations += 1
-        return numberOfOperations
+        return steps
