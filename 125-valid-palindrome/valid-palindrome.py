@@ -1,22 +1,19 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        is_alphanum = lambda x: True if  97 <= ord(x) <= 122 or 48 <= ord(x) <= 57 else False
-
         left = 0
         right = len(s) - 1
 
-        lower_s = s.lower()
 
         while left < right:
-            if not is_alphanum(lower_s[left]):
+            if not s[left].isalnum():
                 left += 1
                 continue
             
-            if not is_alphanum(lower_s[right]):
+            if not s[right].isalnum():
                 right -= 1
                 continue
 
-            if  lower_s[right] != lower_s[left]:
+            if  s[right].lower() != s[left].lower():
                 return False
             
             left += 1
