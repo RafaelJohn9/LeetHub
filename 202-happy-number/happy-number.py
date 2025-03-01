@@ -6,6 +6,7 @@ class Solution:
 
         fast = get_next(get_next(fast))
         slow = get_next(slow)
+        
         while fast != slow and fast != 1:
             fast = get_next(get_next(fast))
             slow = get_next(slow)
