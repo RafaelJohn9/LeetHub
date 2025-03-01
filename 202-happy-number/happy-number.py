@@ -1,14 +1,16 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        backtrack = {}
+        fast = slow = n
 
-        num = n
-        while num != 1:
-            backtrack[num] = True
+        get_next = lambda x: sum([int(y)**2 for y in str(x)])
 
-            num = sum([int(digit)**2 for digit  in str(num)])
-            
-            if backtrack.get(num, False):
-                return False
+        fast = get_next(get_next(fast))
+        slow = get_next(slow)
+        while fast != slow and fast != 1:
+            fast = get_next(get_next(fast))
+            slow = get_next(slow)
         
-        return  True
+        if fast == 1:
+            return True
+        
+        return False
