@@ -1,9 +1,23 @@
 class Solution:
     def shortestToChar(self, s: str, c: str) -> List[int]:
-        list_of_c = [i for i in range(len(s)) if s[i] == c]
+        n = len(s)
+        result = [float('inf')] * n
 
-        result = []
-        for i in range(len(s)):
-            result.append(min([abs(i - index_of_c) for index_of_c in list_of_c]))
+        shortest_c = -float("inf")
+
+        # left iteration
+        for i in range(n):
+            if s[i] == c:
+                shortest_c = i
+
+            result[i] = abs(i - shortest_c)
+        
+        shortest_c = float("inf")
+        for j in range(n - 1, -1, -1):
+            if s[j] == c:
+                shortest_c = j
+            
+            result[j] = min(result[j], abs(j - shortest_c))
         
         return result
+
