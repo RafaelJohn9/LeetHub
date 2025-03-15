@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/RafaelJohn9/LeetHub/tree/master/0874-backspace-string-compare) |
+| [0908-middle-of-the-linked-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/RafaelJohn9/LeetHub/tree/master/0874-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
