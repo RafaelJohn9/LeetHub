@@ -1,13 +1,11 @@
 class Solution:
     def sortArrayByParity(self, nums: List[int]) -> List[int]:
-        even = []
-        odd = []
+        response = []
 
         for num in nums:
             if num % 2 == 0:
-                even.append(num)
+                response.insert(0, num)
             else:
-                odd.append(num)
-        
-        even.extend(odd)
-        return even
+                response.append(num)
+                
+        return response
