@@ -6,11 +6,11 @@ class Solution:
         s_list = list(s)
 
         while left < right:
-            if ord(s_list[left].lower()) < ord('a') or ord(s_list[left].lower()) > ord('z'):
+            if not s_list[left].isalpha():
                 left += 1
                 continue
             
-            if ord(s_list[right].lower()) < ord('a') or ord(s_list[right].lower()) > ord('z'):
+            if not s_list[right].isalpha():
                 right -= 1
                 continue
             
