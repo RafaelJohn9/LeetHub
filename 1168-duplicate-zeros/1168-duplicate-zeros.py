@@ -3,33 +3,21 @@ class Solution:
         """
         Do not return anything, modify arr in-place instead.
         """
-        def insert_zero(arr: List[int], index: int):
-            """
-            Inserts zero at a particular index and pushes the other elemnts to the right.
-            """
-            n = len(arr)
-
-            if index >= n:
-                return
-
-            temp = arr[index]
-            arr[index] = 0
-            index += 1
-
-            while index < n:
-                next_temp = arr[index]
-                arr[index] = temp
-                temp = next_temp
-                index += 1
-            
-        
         n = len(arr)
-        i = 0
+        zeros = arr.count(0)  # Count the number of zeros to be duplicated
+        i = n - 1
+        j = n + zeros - 1  # Logical extended array index
 
-        while i < len(arr):
-            if arr[i] == 0:
-                insert_zero(arr, i + 1)
-                i += 2
-                continue
-            i += 1
-        
+        # Iterate backwards and shift elements
+        while i >= 0:
+            if j < n:
+                arr[j] = arr[i]
+            
+            j -= 1
+            
+            if arr[i] == 0:  # Duplicate zero
+                if j < n:
+                    arr[j] = 0
+                j -= 1
+            
+            i -= 1
