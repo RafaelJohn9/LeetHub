@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/RafaelJohn9/LeetHub/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/RafaelJohn9/LeetHub/tree/master/1168-duplicate-zeros) |
+| [1454-remove-palindromic-subsequences](https://github.com/RafaelJohn9/LeetHub/tree/master/1454-remove-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/RafaelJohn9/LeetHub/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/RafaelJohn9/LeetHub/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/RafaelJohn9/LeetHub/tree/master/0979-di-string-match) |
+| [1454-remove-palindromic-subsequences](https://github.com/RafaelJohn9/LeetHub/tree/master/1454-remove-palindromic-subsequences) |
 ## Greedy
 |  |
 | ------- |
