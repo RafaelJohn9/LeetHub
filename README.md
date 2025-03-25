@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/RafaelJohn9/LeetHub/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/RafaelJohn9/LeetHub/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/RafaelJohn9/LeetHub/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +87,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
