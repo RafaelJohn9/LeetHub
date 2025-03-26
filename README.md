@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1454-remove-palindromic-subsequences](https://github.com/RafaelJohn9/LeetHub/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-long-pressed-name](https://github.com/RafaelJohn9/LeetHub/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/RafaelJohn9/LeetHub/tree/master/0979-di-string-match) |
 | [1454-remove-palindromic-subsequences](https://github.com/RafaelJohn9/LeetHub/tree/master/1454-remove-palindromic-subsequences) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/RafaelJohn9/LeetHub/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
