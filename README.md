@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RafaelJohn9/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
