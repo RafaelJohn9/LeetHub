@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
+| [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/RafaelJohn9/LeetHub/tree/master/0874-backspace-string-compare) |
+| [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 ## Stack
 |  |
 | ------- |
