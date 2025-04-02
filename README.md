@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,11 +96,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
+| [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
