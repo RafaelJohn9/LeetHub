@@ -1,17 +1,13 @@
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
-        def is_num_in_arr(num: int, arr: List[int]):
-            for arr_num in arr:
-                if arr_num == num:
-                    return True
-                elif arr_num > num:
-                    return False
-            
-            return False
-        
+        i, j = 0, 0
 
-        for num in nums1:
-            if is_num_in_arr(num, nums2):
-                return num
+        while i < len(nums1) and j < len(nums2):
+            if nums1[i] == nums2[j]:
+                return nums1[i]
+            elif nums1[i] < nums2[j]:
+                i += 1
+            else:
+                j += 1
         
         return -1
