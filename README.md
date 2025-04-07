@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/RafaelJohn9/LeetHub/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2551-apply-operations-to-an-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 ## Stack
 |  |
 | ------- |
