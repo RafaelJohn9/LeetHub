@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RafaelJohn9/LeetHub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2698-find-the-array-concatenation-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RafaelJohn9/LeetHub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RafaelJohn9/LeetHub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -121,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RafaelJohn9/LeetHub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
 | ------- |
