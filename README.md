@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RafaelJohn9/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RafaelJohn9/LeetHub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RafaelJohn9/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RafaelJohn9/LeetHub/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RafaelJohn9/LeetHub/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
