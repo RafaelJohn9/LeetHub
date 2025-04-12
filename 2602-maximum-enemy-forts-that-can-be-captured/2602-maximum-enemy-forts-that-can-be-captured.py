@@ -1,37 +1,18 @@
 class Solution:
     def captureForts(self, forts: List[int]) -> int:
-        def capture_forward(forts: List[int]) -> int:
-            count = 0
-            for fort in forts:
-                if fort == 0:
-                    count += 1
-                elif fort == -1:
-                    return count
-                else:
-                    return 0
-            return 0
-
-        def capture_back(forts: List[int]) -> int:
-            count = 0
-            n = len(forts)
-            i = n - 1
-
-            while i >= 0:
-                if forts[i] == 0:
-                    count += 1
-                elif forts[i] == -1:
-                    return count
-                else:
-                    return 0
-                
-                i -= 1
-            
-            return 0
+        max_captures = 0
+        n = len(forts)
         
-        indexOfOne = [i for i in range(len(forts)) if forts[i] == 1]
-
-        big_capture = 0
-        for myFortIndex in indexOfOne:
-            big_capture = max(big_capture, capture_forward(forts[myFortIndex + 1:]), capture_back(forts[: myFortIndex]))
+        i = 0
+        while i < n:
+            if forts[i] == 1 or forts[i] == -1:
+                j = i + 1
+                while j < n and forts[j] == 0:
+                    j += 1
+                if j < n and forts[i] + forts[j] == 0:  # enemy fort on the other end
+                    max_captures = max(max_captures, j - i - 1)
+                i = j
+            else:
+                i += 1
         
-        return big_capture
+        return max_captures
