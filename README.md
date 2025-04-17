@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
