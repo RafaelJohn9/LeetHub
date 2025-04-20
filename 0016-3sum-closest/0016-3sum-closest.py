@@ -14,15 +14,16 @@ class Solution:
 
                 while j < k:
                     total = nums[i] + nums[j] + nums[k]
+
                     total_difference = abs(total - target)
                     result_difference = abs(result - target)
+
+                    if total_difference < result_difference:
+                        result = total
                     
                     if total == target:
                         return total
-                    elif total_difference < result_difference:
-                        result = total
-
-                    if total < target:
+                    elif total < target:
                         j += 1
                     else:
                         k -= 1
