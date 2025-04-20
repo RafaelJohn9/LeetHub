@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RafaelJohn9/LeetHub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RafaelJohn9/LeetHub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/RafaelJohn9/LeetHub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
