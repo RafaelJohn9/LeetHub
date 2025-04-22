@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RafaelJohn9/LeetHub/tree/master/0002-add-two-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -156,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/RafaelJohn9/LeetHub/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RafaelJohn9/LeetHub/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RafaelJohn9/LeetHub/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
