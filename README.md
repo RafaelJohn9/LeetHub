@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RafaelJohn9/LeetHub/tree/master/0283-move-zeroes) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/RafaelJohn9/LeetHub/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
