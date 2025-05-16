@@ -8,27 +8,22 @@ class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head:
             return None
-            
-        tortoise = head
-        hare = head
-        meeting_node = None
 
-        while hare.next and hare.next.next:
-            hare = hare.next.next
+        tortoise = hare = head
+
+        while hare and hare.next:
             tortoise = tortoise.next
+            hare = hare.next.next
 
             if tortoise == hare:
-                meeting_node = hare
                 break
-
+        else:
+            return None
 
         tortoise = head
-        while meeting_node:
-            if tortoise == meeting_node:
-                return tortoise
-            
-            meeting_node = meeting_node.next
+        while tortoise != hare:
+            hare = hare.next
             tortoise = tortoise.next
             
         
-        return None
+        return hare
