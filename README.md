@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RafaelJohn9/LeetHub/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/RafaelJohn9/LeetHub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RafaelJohn9/LeetHub/tree/master/1772-create-sorted-array-through-instructions) |
 ## Binary Indexed Tree
@@ -217,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RafaelJohn9/LeetHub/tree/master/1772-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
