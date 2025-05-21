@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RafaelJohn9/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RafaelJohn9/LeetHub/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RafaelJohn9/LeetHub/tree/master/1772-create-sorted-array-through-instructions) |
