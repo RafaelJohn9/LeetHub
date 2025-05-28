@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/RafaelJohn9/LeetHub/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/RafaelJohn9/LeetHub/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/0125-valid-palindrome) |
 | [0481-magical-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [0457-circular-array-loop](https://github.com/RafaelJohn9/LeetHub/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/RafaelJohn9/LeetHub/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [0475-heaters](https://github.com/RafaelJohn9/LeetHub/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -184,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0457-circular-array-loop](https://github.com/RafaelJohn9/LeetHub/tree/master/0457-circular-array-loop) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
