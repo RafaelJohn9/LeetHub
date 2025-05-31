@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RafaelJohn9/LeetHub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/RafaelJohn9/LeetHub/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RafaelJohn9/LeetHub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0556-next-greater-element-iii](https://github.com/RafaelJohn9/LeetHub/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/RafaelJohn9/LeetHub/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0189-rotate-array) |
+| [0556-next-greater-element-iii](https://github.com/RafaelJohn9/LeetHub/tree/master/0556-next-greater-element-iii) |
 ## Recursion
 |  |
 | ------- |
