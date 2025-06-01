@@ -1,27 +1,27 @@
+from collections import Counter
+
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        s1_dict = {}
+        len_s1 = len(s1)
+        len_s2 = len(s2)
 
-        n = len(s2)
-        i = 0
+        if len_s1 > len_s2:
+            return False
 
-        # Map all s1 characters in a dict
-        for char in s1:
-            s1_dict[char] = s1_dict.get(char, 0) + 1
-        
-        temp_dict = s1_dict.copy()
+        s1_count = Counter(s1)
+        window_count = Counter(s2[:len_s1])
 
-        while i < n:
-            temp_i = i
-            while temp_i < n and temp_dict.get(s2[temp_i], 0) > 0 :
-                temp_dict[s2[temp_i]] -= 1
-                temp_i += 1
-            else:
-                i += 1
+        if s1_count == window_count:
+            return True
 
-            if not any(list(temp_dict.values())):
+        for i in range(len_s1, len_s2):
+            window_count[s2[i]] += 1
+            window_count[s2[i - len_s1]] -= 1
+
+            if window_count[s2[i - len_s1]] == 0:
+                del window_count[s2[i - len_s1]]
+
+            if window_count == s1_count:
                 return True
-            
-            temp_dict = s1_dict.copy()
-        
+
         return False
