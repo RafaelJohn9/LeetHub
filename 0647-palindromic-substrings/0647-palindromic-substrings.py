@@ -1,18 +1,19 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
         n = len(s)
-        count = n
+        count = 0
 
-        def is_palindrome(s: str) -> bool:
-            return s == s[::-1]
-        
+        def expandAroundCenter(left: int, right: int):
+            nonlocal count
+            while left >= 0 and right < n and s[left] == s[right]:
+                count += 1
+                left -= 1
+                right += 1
+
         for i in range(n):
-            j = i + 1
+            # Odd length palindromes
+            expandAroundCenter(i, i)
+            # Even length palindromes
+            expandAroundCenter(i, i + 1)
 
-            while j < n:
-                if is_palindrome(s[i:j+1]):
-                    count += 1
-                
-                j += 1
-        
         return count
