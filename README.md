@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/RafaelJohn9/LeetHub/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RafaelJohn9/LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RafaelJohn9/LeetHub/tree/master/1772-create-sorted-array-through-instructions) |
@@ -283,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -291,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0647-palindromic-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
