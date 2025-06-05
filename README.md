@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/RafaelJohn9/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0457-circular-array-loop](https://github.com/RafaelJohn9/LeetHub/tree/master/0457-circular-array-loop) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Stack
