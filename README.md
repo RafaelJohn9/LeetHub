@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RafaelJohn9/LeetHub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0841-shortest-distance-to-a-character](https://github.com/RafaelJohn9/LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RafaelJohn9/LeetHub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/RafaelJohn9/LeetHub/tree/master/0941-sort-array-by-parity) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Stack
 |  |
@@ -303,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
