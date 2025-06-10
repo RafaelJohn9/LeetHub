@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/RafaelJohn9/LeetHub/tree/master/0979-di-string-match) |
 | [1454-remove-palindromic-subsequences](https://github.com/RafaelJohn9/LeetHub/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RafaelJohn9/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RafaelJohn9/LeetHub/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/RafaelJohn9/LeetHub/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/RafaelJohn9/LeetHub/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/RafaelJohn9/LeetHub/tree/master/2634-minimum-common-value) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/RafaelJohn9/LeetHub/tree/master/1755-defuse-the-bomb) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -313,4 +316,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
