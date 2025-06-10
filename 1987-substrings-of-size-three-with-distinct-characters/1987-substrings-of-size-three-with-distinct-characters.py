@@ -1,14 +1,8 @@
 class Solution:
     def countGoodSubstrings(self, s: str) -> int:
-        first_str = s[:3]
-
         count = 0
-        for letter in s[3:]:
-            subset = set(first_str)
-
-            if len(subset) == 3:
+        for i in range(len(s) - 2):  # up to len(s)-3 inclusive
+            window = s[i:i+3]
+            if len(set(window)) == 3:
                 count += 1
-            
-            first_str = first_str[1:] + letter
-        
-        return count if len(set(first_str)) != 3 else count + 1
+        return count
