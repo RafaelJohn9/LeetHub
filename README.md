@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/RafaelJohn9/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RafaelJohn9/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/RafaelJohn9/LeetHub/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/RafaelJohn9/LeetHub/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RafaelJohn9/LeetHub/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Stack
 |  |
 | ------- |
