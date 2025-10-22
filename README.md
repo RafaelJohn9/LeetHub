@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RafaelJohn9/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/0125-valid-palindrome) |
 | [0481-magical-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RafaelJohn9/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RafaelJohn9/LeetHub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
@@ -326,4 +328,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RafaelJohn9/LeetHub/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
