@@ -263,12 +263,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/RafaelJohn9/LeetHub/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/RafaelJohn9/LeetHub/tree/master/0556-next-greater-element-iii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RafaelJohn9/LeetHub/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0143-reorder-list) |
+| [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
 |  |
@@ -332,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RafaelJohn9/LeetHub/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
