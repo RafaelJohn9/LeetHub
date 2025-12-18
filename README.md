@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/RafaelJohn9/LeetHub/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/RafaelJohn9/LeetHub/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/RafaelJohn9/LeetHub/tree/master/0979-di-string-match) |
+| [1143-longest-common-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/1143-longest-common-subsequence) |
 | [1454-remove-palindromic-subsequences](https://github.com/RafaelJohn9/LeetHub/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RafaelJohn9/LeetHub/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/RafaelJohn9/LeetHub/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/RafaelJohn9/LeetHub/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/1143-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
