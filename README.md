@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RafaelJohn9/LeetHub/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RafaelJohn9/LeetHub/tree/master/1772-create-sorted-array-through-instructions) |
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RafaelJohn9/LeetHub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/RafaelJohn9/LeetHub/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
