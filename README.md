@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RafaelJohn9/LeetHub/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0861-flipping-an-image](https://github.com/RafaelJohn9/LeetHub/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/RafaelJohn9/LeetHub/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/RafaelJohn9/LeetHub/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
