@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/RafaelJohn9/LeetHub/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/RafaelJohn9/LeetHub/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RafaelJohn9/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/RafaelJohn9/LeetHub/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [0475-heaters](https://github.com/RafaelJohn9/LeetHub/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -355,4 +357,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/RafaelJohn9/LeetHub/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RafaelJohn9/LeetHub/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
