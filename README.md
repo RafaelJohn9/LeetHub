@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RafaelJohn9/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RafaelJohn9/LeetHub/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0209-minimum-size-subarray-sum) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/RafaelJohn9/LeetHub/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [0475-heaters](https://github.com/RafaelJohn9/LeetHub/tree/master/0475-heaters) |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/RafaelJohn9/LeetHub/tree/master/0380-insert-delete-getrandom-o1) |
 | [0457-circular-array-loop](https://github.com/RafaelJohn9/LeetHub/tree/master/0457-circular-array-loop) |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RafaelJohn9/LeetHub/tree/master/1772-create-sorted-array-through-instructions) |
 ## Binary Indexed Tree
@@ -345,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/RafaelJohn9/LeetHub/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RafaelJohn9/LeetHub/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
