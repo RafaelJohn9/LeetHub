@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RafaelJohn9/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RafaelJohn9/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/RafaelJohn9/LeetHub/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/RafaelJohn9/LeetHub/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0481-magical-string) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RafaelJohn9/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/RafaelJohn9/LeetHub/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0344-reverse-string) |
 | [0481-magical-string](https://github.com/RafaelJohn9/LeetHub/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RafaelJohn9/LeetHub/tree/master/0524-longest-word-in-dictionary-through-deleting) |
