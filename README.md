@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RafaelJohn9/LeetHub/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0018-4sum) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/RafaelJohn9/LeetHub/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0324-wiggle-sort-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/RafaelJohn9/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RafaelJohn9/LeetHub/tree/master/0016-3sum-closest) |
