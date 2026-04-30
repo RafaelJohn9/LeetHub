@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RafaelJohn9/LeetHub/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RafaelJohn9/LeetHub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RafaelJohn9/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RafaelJohn9/LeetHub/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RafaelJohn9/LeetHub/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0064-minimum-path-sum) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/RafaelJohn9/LeetHub/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/RafaelJohn9/LeetHub/tree/master/0874-backspace-string-compare) |
@@ -337,10 +340,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RafaelJohn9/LeetHub/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RafaelJohn9/LeetHub/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/RafaelJohn9/LeetHub/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RafaelJohn9/LeetHub/tree/master/0064-minimum-path-sum) |
